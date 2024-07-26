@@ -6,5 +6,4 @@ describe('AppComponent', ()=>{
     const component = new AppComponent();
     expect(component.title).toBeDefined();
   });
-
 });
