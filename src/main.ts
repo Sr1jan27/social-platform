@@ -11,6 +11,6 @@ platformBrowserDynamic().bootstrapModule(AppModule)
 // date 19-08-2024 POTD GFG
 //  int findkthsmallestnumber(int[] arr, int k){
 
-    Arrays.sort(arr);
-    return arr[k-1];
-}
+//     Arrays.sort(arr);
+//     return arr[k-1];
+// }
